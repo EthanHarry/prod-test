@@ -1,0 +1,8 @@
+{
+  "Greeting" : "{{user_name}} aj",
+  "Returning" : "Bienvenido, cliente regresando! ¿Cómo podemos tenerte?",
+  "Warning" : "sda",
+  "Contact" : "Contáctanos en google.",
+  "Login" : "Already have an account? Click here to TEST in.",
+  "Forgot password" : "Haga clic aquí para restablecer la contraseña."
+}
