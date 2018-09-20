@@ -1,0 +1,8 @@
+{
+  "Greeting" : "{{user_name}} aj",
+  "Returning" : "Bienvenido, cliente regresando! ¿Cómo podemos tenerte?",
+  "Warning" : "",
+  "Contact" : "",
+  "Login" : "",
+  "Forgot password" : ""
+}
